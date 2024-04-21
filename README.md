@@ -1,3 +1,4 @@
+<h1></h1>
 <h1 align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Charles+HATUMA;Hi+%F0%9F%91%8B%2C+I'm++a+software+engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Hi+%F0%9F%91%8B%2C+I'm++designer+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%A8;Hi+%F0%9F%91%8B%2C+I'm++a+game+developer+%F0%9F%8E%AE;Connect+with+me" alt="Typing SVG" /></a>
 </h1>
@@ -36,3 +37,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=htmcharles&theme=dark)](https://git.io/streak-stats)
 ![HATUMA's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=htmcharles&theme=dark&hide=langs-count)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htmcharles&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark)
+<h1></h1>
+<h1 align="center">
+ 
+[![Thanks](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Thank+you+for+visiting+us+;Connect+us+on+linkein)](https://git.io/typing-svg)
+</h1>
