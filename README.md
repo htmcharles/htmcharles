@@ -35,8 +35,10 @@
 </p>
 
 [![HATUMA's Streak](https://streak-stats.demolab.com/?user=htmcharles&theme=dark)](https://git.io/streak-stats)
-![HATUMA's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=htmcharles&theme=dark&hide=langs-count)
+
+
 ![HATUMA's GitHub stats](https://github-readme-stats.vercel.app/api?username=htmcharles&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark)
+![HATUMA's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=htmcharles&theme=dark&hide=langs-count)
 <h1></h1>
 <h1 align="center">
  
