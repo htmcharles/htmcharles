@@ -42,5 +42,5 @@
 <h1></h1>
 <h1 align="center">
  
-[![Thanks](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Thank+you+for+connecting+with+us+;Connect+us+on+linkein)](https://git.io/typing-svg)
+[![Thanks](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Thank+you+for+connecting+with+us+;Connect+us+on+linkedIn)](https://git.io/typing-svg)
 </h1>
