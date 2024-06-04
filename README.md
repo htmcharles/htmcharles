@@ -25,7 +25,7 @@
 <a href="https://fb.com/hatuma charles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hatuma charles" height="30" width="40" /></a>
 <a href="https://instagram.com/htm_cha_le" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="htm_cha_le" height="30" width="40" /></a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Skills:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
