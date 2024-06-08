@@ -2,7 +2,7 @@
 <h1 align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Charles+HATUMA;Hi+%F0%9F%91%8B%2C+I'm++a+software+engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Hi+%F0%9F%91%8B%2C+I'm++designer+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%A8;Hi+%F0%9F%91%8B%2C+I'm++a+game+developer+%F0%9F%8E%AE;Connect+with+me" alt="Typing SVG" /></a>
 </h1>
-<h3 align="center">CONNECT WITH  ME</h3>
+<h3 align="center">CONNECT WITH  CHARLES</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
