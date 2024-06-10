@@ -12,7 +12,7 @@
 
 >🔭 I’m currently working on **Backend**
 
->🌱 I’m currently learning **React**
+>🌱 I’m currently learning **Backend**
 
 >💬 Ask me about **react,vue,php**
 
