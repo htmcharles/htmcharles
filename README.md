@@ -18,7 +18,7 @@
 
 >📫 How to reach me **hatumacharles1@gmail.com** 
 
-<h3 align="left">Connect with Me</h3>
+<h3 align="left">Connect with cHARLES</h3>
 <p align="left">
 <a href="https://twitter.com/htm_charles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@htm_charles" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hatuma charles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hatuma charles" height="30" width="40" /></a>
