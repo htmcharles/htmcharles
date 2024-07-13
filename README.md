@@ -12,7 +12,7 @@
 
 >🔭 I’m currently working on **FRONTEND**
 
->🌱 I’m currently learning **Backend**
+>🌱 I’m currently learning **NATIVE**
 
 >💬 Ask me about **react,vue,php**
 
