@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://www.instagram.com/htm_cha_le/" target="blank">
  <img src="https://img.shields.io/twitter/follow/htm_charles?logo=twitter&style=for-the-badge" alt="@htm_charles" /></a> </p>
 
->🔭 I’m currently working on **BACKEND**
+>🔭 I’m currently working on **CPP**
 
 >🌱 I’m currently learning **NATIVE**
 
