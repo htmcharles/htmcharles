@@ -23,7 +23,7 @@
 <a href="https://twitter.com/htm_charles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@htm_charles" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hatuma charles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hatuma charles" height="30" width="40" /></a>
 <a href="https://fb.com/hatuma charles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hatuma charles" height="30" width="40" /></a>
-<a href="https://instagram.com/htm_cha_le" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="htm_cha_le" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_h.charles_1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="htm_cha_le" height="30" width="40" /></a>
 </p>
 <h1 align="left">LANGUAGES AND SKILLS:</h1>
 
