@@ -1,22 +1,29 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Charles+HATUMA;Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Designer+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%A8;Game+Developer+%F0%9F%8E%AE;Let's+Connect!" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello,+I'm+Charles+HATUMA!;Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Game+Developer+%F0%9F%8E%AE;UI/UX+Designer+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%A8;Cybersecurity+Enthusiast+%E2%9A%A1" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="coding animation" width="400">
+  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Coding Animation" width="450">
 </p>
-
-## 🌟 About Me  
-🔭 **Currently Working On:** C++ Projects  
-🌱 **Currently Learning:** React Native & Blockchain  
-💬 **Ask Me About:** React, Vue, PHP  
-📫 **Reach Me At:** hatumacharles1@gmail.com  
 
 ---
 
-## 📢 Connect with Me  
+## 🚀 About Me  
+
+👋 Hi! I'm **Charles HATUMA**, a **Software Engineer** with a passion for **Frontend Development, Embedded Systems, and Blockchain**. I specialize in:  
+
+✔ **Web & Mobile Development** (React, Vue, Flutter)  
+✔ **System Programming & Embedded Systems** (C++, C, Python)  
+✔ **Blockchain & Smart Contracts** (Web3, Solidity, Truffle)  
+✔ **Cybersecurity & Ethical Hacking** (Penetration Testing)  
+
+📌 **Currently Working On:** Next.js & Blockchain (Project 1)  
+📌 **Currently Learning:** React Native, Expo Router & Smart Contracts  
+📌 **Open to Collaborate:** Always excited about innovative projects!  
+
+---
+
+## 🌎 Connect With Me  
 
 <p align="center">
   <a href="https://twitter.com/htm_charles" target="_blank">
@@ -33,32 +40,34 @@
   </a>
 </p>
 
+📩 **Reach me via email:** hatumacharles1@gmail.com  
+
 ---
 
-## 🚀 Languages & Tools  
+## 🔧 Tech Stack & Skills  
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,nodejs,php,flutter,kotlin,java,cpp,c,py,git,docker,kubernetes,figma,vim,aws,gcp,azure&theme=dark&perline=6" />
-  </a>
-</p>
+### **👨‍💻 Languages & Frameworks**  
+![My Skills](https://skillicons.dev/icons?i=cpp,c,py,java,kotlin,php,js,ts,html,css,react,vue,nextjs,nodejs,flutter,solidity,tailwind,bootstrap&perline=7)
+
+### **🛠️ Tools & Technologies**  
+![Tools](https://skillicons.dev/icons?i=docker,kubernetes,git,github,figma,vim,linux,aws,gcp,azure,postgres,mysql,mongodb&perline=7)
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=htmcharles&theme=dark" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=htmcharles&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htmcharles&theme=dark&hide=langs-count" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=htmcharles&theme=dark&border_radius=10" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=htmcharles&show_icons=true&theme=dark&border_radius=10" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htmcharles&theme=dark&layout=compact&border_radius=10" alt="Top Languages" />
 </p>
 
 ---
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Thank+you+for+visiting!;Let's+stay+connected!">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Thanks+for+Visiting!;Let's+Stay+Connected!" alt="Typing SVG" />
   </a>
 </h1>
