@@ -12,12 +12,12 @@
 
 👋 Hi! I'm **Charles HATUMA**, a **Software Engineer** with a passion for **Frontend Development, Embedded Systems, and Blockchain**. I specialize in:  
 
-✔ **Web & Mobile Development** (React, Vue, Flutter)  
+✔ **Mobile Development** (React, Vue, Flutter)  
 ✔ **System Programming & Embedded Systems** (C++, C, Python)  
-✔ **Blockchain & Smart Contracts** (Web3, Solidity, Truffle)  
+✔ **Blockchain** (Web3, Solidity, Truffle)  
 ✔ **Cybersecurity & Ethical Hacking** (Penetration Testing)  
 
-📌 **Currently Working On:** Next.js & Blockchain (Project 1)  
+📌 **Currently Working On:** Next.js & Blockchain   
 📌 **Currently Learning:** React Native, Expo Router & Smart Contracts  
 📌 **Open to Collaborate:** Always excited about innovative projects!  
 
