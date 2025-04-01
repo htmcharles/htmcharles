@@ -26,16 +26,16 @@
 ## 🌎 Connect With Me  
 
 <p align="center">
-  <a href="https://twitter.com/htm_charles" target="_blank">
+  <a href="https://twitter.com/htm_charles" target="_blank" style="transition: transform 0.2s;">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" />
   </a>
-  <a href="https://linkedin.com/in/hatumacharles" target="_blank">
+  <a href="https://linkedin.com/in/hatumacharles" target="_blank" style="transition: transform 0.2s;">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="https://fb.com/hatumacharles" target="_blank">
+  <a href="https://fb.com/hatumacharles" target="_blank" style="transition: transform 0.2s;">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/_h.charles_1/" target="_blank">
+  <a href="https://www.instagram.com/_h.charles_1/" target="_blank" style="transition: transform 0.2s;">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
   </a>
 </p>
@@ -66,6 +66,13 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Thanks+for+Visiting!;Let's+Stay+Connected!;Fell+Free+TO+Contact+US" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Thanks+for+Visiting!;Let's+Stay+Connected!;Feel+Free+TO+Contact+Me" alt="Typing SVG" />
   </a>
 </h1>
+
+<style>
+a:hover img {
+  transform: scale(1.1);
+  transition: transform 0.3s ease-in-out;
+}
+</style>
