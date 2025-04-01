@@ -57,8 +57,6 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=htmcharles&theme=dark&border_radius=10" alt="GitHub Streak" />
-  <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=htmcharles&show_icons=true&theme=dark&border_radius=10" alt="GitHub Stats" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htmcharles&theme=dark&layout=compact&border_radius=10" alt="Top Languages" />
