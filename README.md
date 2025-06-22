@@ -32,9 +32,6 @@
   <a href="https://linkedin.com/in/hatumacharles" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="https://fb.com/hatumacharles" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
-  </a>
   <a href="https://www.instagram.com/_h.charles_1/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
   </a>
