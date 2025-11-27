@@ -25,12 +25,9 @@
 
 ## 🌎 Connect With Me  
 
-<p align="center">
+<p>
   <a href="https://twitter.com/htm_charles" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/_h.charles_1/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
   </a>
 </p>
 
