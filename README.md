@@ -70,9 +70,9 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=htmcharles&show_icons=true&theme=dark&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=htmcharles&show_icons=true&theme=dark&border_radius=10" alt="htmcharles GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htmcharles&theme=dark&layout=compact&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htmcharles&theme=dark&layout=compact&border_radius=10" alt="htmcharles Top Languages" />
 </p>
 
 ---
@@ -96,3 +96,4 @@
 <p align="center">
   🚀 Let’s connect, collaborate, and build meaningful tech in the New Year!
 </p>
+
