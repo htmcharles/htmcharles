@@ -1,3 +1,16 @@
+<!-- 🎄✨ FESTIVE SEASON BANNER ✨🎆 -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=600&lines=🎄+Merry+Christmas+from+Charles+HATUMA!;🎆+Happy+New+Year+2026!;🚀+Building+Cool+Things+Into+the+Future!" alt="Festive Typing SVG" />
+</p>
+
+<p align="center">
+  🎅❄️ Season’s Greetings!  
+  <br />
+  Wishing you a joyful Christmas and a powerful, successful New Year 🎆
+</p>
+
+---
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello,+I'm+Charles+HATUMA!;Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Game+Developer+%F0%9F%8E%AE;UI/UX+Designer+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%A8;Cybersecurity+Enthusiast+%E2%9A%A1" alt="Typing SVG" />
 </h1>
@@ -20,6 +33,15 @@
 📌 **Currently Working On:** Next.js & Blockchain   
 📌 **Currently Learning:** React Native, Expo Router & Smart Contracts  
 📌 **Open to Collaborate:** Always excited about innovative projects!  
+
+---
+
+## 🎁 Holiday Dev Vibes
+
+🎄 This season, I’m reflecting on growth, shipping projects, and preparing for bigger goals in the coming year.  
+🎆 2026 focus: **Scalable systems, secure applications, and impactful products.**
+
+✨ *“Code. Learn. Secure. Repeat.”*
 
 ---
 
@@ -60,3 +82,17 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Thanks+for+Visiting!;Let's+Stay+Connected!;Fell+Free+TO+Contact+US" alt="Typing SVG" />
   </a>
 </h1>
+
+---
+
+<p align="center">
+  🎄✨ Thank You for Visiting ✨🎆
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=600&lines=Merry+Christmas+🎄;Happy+New+Year+2026+🎆;Let’s+Build+Something+Amazing!" alt="Festive Typing SVG" />
+</p>
+
+<p align="center">
+  🚀 Let’s connect, collaborate, and build meaningful tech in the New Year!
+</p>
